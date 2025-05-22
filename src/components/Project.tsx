@@ -62,7 +62,7 @@ function Project() {
             target='_blank'
             rel='noreferrer'
           >
-            <h2>Hilton Hyland Website</h2>
+            <h2>Now Candid</h2>
           </a>
           <p>
           Simple software suite for photographers:
